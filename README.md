@@ -31,8 +31,8 @@ My passions are photography, graphic design, and animation. All of which go hand
 - Sketch. 
 
 #### :notebook: Skills
-- Web Design  
-- Graphic Design  
+- UX/UI Design
+- Development
 - Photography  
 - Multimedia  
 
