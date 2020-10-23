@@ -23,17 +23,17 @@ My passions are photography, graphic design, and animation. All of which go hand
 > Just not worth the ammo.
 
 #### :pencil2: Weapons of Choice
-uni-ball Deluxe Mirco  
-Special Orange Mechanical Pencil  
-Journal  
-Illustrator  
-Photoshop  
-Sketch
+- uni-ball Deluxe Mirco.   
+- Special Orange Mechanical Pencil  
+- Journal  
+- Illustrator  
+- Photoshop  
+- Sketch. 
 
 #### :notebook: Skills
-Web Design  
-Graphic Design  
-Photography  
-Multimedia
+- Web Design  
+- Graphic Design  
+- Photography  
+- Multimedia  
 
 
