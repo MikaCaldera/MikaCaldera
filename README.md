@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ## :fire:Passions
 My passions are photography, graphic design, and animation. All of which go hand in hand with my need for music, travel, nature and love. Discovery is one of the best inspirations. Traveling, failing, and learning.
 
-#### :dizzy: Motto
+### :dizzy: Motto
 > Life without creating is a Zombie Apocalypse without the Zombies.  
 > Just not worth the ammo.
 
-#### :pencil2: Weapons of Choice
+### :pencil2: Weapons of Choice
 - uni-ball Deluxe Mirco.   
 - Special Orange Mechanical Pencil  
 - Journal  
@@ -30,13 +30,13 @@ My passions are photography, graphic design, and animation. All of which go hand
 - Photoshop  
 - Sketch. 
 
-#### :notebook: Skills
+### :notebook: Skills
 - UX/UI Design
 - Development
 - Photography  
 - Multimedia  
 
-#### Extra
+#### Extra Info
 :construction: I’m currently working on perfecting my needlework!  
 :seedling: I’m currently learning project management!  
 :tada: I’m looking to collaborate on mirco sites!  
