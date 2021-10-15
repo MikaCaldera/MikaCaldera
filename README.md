@@ -23,7 +23,7 @@ My passions are photography, graphic design, and animation. All of which go hand
 > Just not worth the ammo.
 
 ### :pencil2: Weapons of Choice
-- uni-ball Deluxe Mirco.   
+- uni-ball Deluxe Micro 
 - Special Orange Mechanical Pencil  
 - Journal  
 - Illustrator  
@@ -39,7 +39,7 @@ My passions are photography, graphic design, and animation. All of which go hand
 #### Extra Info
 - :construction: I’m currently working on perfecting my needlework!  
 - :seedling: I’m currently learning project management!  
-- :tada: I’m looking to collaborate on mirco sites!  
+- :tada: I’m looking to collaborate on micro sites!  
 - :speech_balloon: Ask me about UI/UX Design!  
 - :memo: How to reach me: @mikacaldera  
 - :lipstick: Pronouns: she/ella  
