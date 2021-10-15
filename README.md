@@ -37,12 +37,12 @@ My passions are photography, graphic design, and animation. All of which go hand
 - Multimedia  
 
 #### Extra
-:construction: I’m currently working on perfecting my needlework! 
-:seedling: I’m currently learning project management! 
-:tada: I’m looking to collaborate on mirco sites!
-:speech_balloon: Ask me about UI/UX Design! 
-:memo: How to reach me: @mikacaldera
-:lipstick: Pronouns: she/ella
+:construction: I’m currently working on perfecting my needlework!  
+:seedling: I’m currently learning project management!  
+:tada: I’m looking to collaborate on mirco sites!  
+:speech_balloon: Ask me about UI/UX Design!  
+:memo: How to reach me: @mikacaldera  
+:lipstick: Pronouns: she/ella  
 :zap: Fun fact: I have a strong obession with animals. 
 
 
