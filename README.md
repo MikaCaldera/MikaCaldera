@@ -13,11 +13,12 @@ My passions are photography, graphic design, and animation. All of which go hand
 - Journal  
 - Illustrator  
 - Photoshop  
-- Sketch. 
+- Figma  
 
 ### :notebook: Skills
 - UX/UI Design
-- Development
+- Front End Development
+- Print Design
 - Photography  
 - Multimedia  
 
